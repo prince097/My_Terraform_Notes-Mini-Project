@@ -1,7 +1,7 @@
 # provider "aws" {
 #   region = "ap-south-1"
-#   access_key = "AKIAXRYUNGKQXORH2P6J"
-#   secret_key = "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"
+#   access_key = ""
+#   secret_key = ""
 # }
 
 # Creating EC2 Instance
